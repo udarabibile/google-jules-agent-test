@@ -1,0 +1,8 @@
+HTTP/1.1 201 Created
+Content-Type: application/json; charset=utf-8
+Date: Sat, 27 Sep 2025 08:15:13 GMT
+Server: Kestrel
+Location: http://localhost:5095/api/TodoItems/1
+Transfer-Encoding: chunked
+
+{"id":1,"name":"My first todo","isComplete":false}
