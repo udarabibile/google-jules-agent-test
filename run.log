@@ -1,2 +1,10 @@
-Using launch settings from /app/TodoApi/Properties/launchSettings.json...
-Building...
+
+Welcome to .NET 9.0!
+---------------------
+SDK Version: 9.0.305
+
+Telemetry
+---------
+The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+
+Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
